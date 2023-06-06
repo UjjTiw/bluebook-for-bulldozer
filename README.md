@@ -1,4 +1,4 @@
-# bluebook-for-bulldozer
+# Blue Book for Bulldozers🚜
 Introduction:
 --------------------
 This project aims to develop a regression model using the RandomForestClassifier algorithm to predict the prices of bulldozers. The model is built to participate in a Kaggle competition focused on time series data analysis. The goal is to accurately estimate the sale prices of bulldozers based on historical data.
